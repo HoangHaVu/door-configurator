@@ -84,4 +84,24 @@ USP: Live-Visualizer + Echtzeit-Preisberechnung rechtfertigen den Premiumpreis.
 
 ## Bereich 3: Seiten-Baum
 
-<!-- Wird von Antigravity/Cursor befüllt nach step-generate-maps.md -->
+Homepage                          → docs/maps/map-homepage.md
+  ├── HeroSection
+  ├── FeaturesSection
+  └── CTASection
+
+Configurator                      → docs/maps/map-configurator.md
+  ├── Visualizer
+  ├── ProgressBar
+  └── OptionCard (Shared UI)
+
+Result / Lead Capture             → docs/maps/map-result.md
+  ├── ConfigurationSummary
+  └── LeadCaptureForm
+
+Thank You                         → docs/maps/map-thank-you.md
+  └── SuccessMessage
+
+Layout + geteilte UI              → docs/maps/map-layout.md
+                                  → docs/maps/map-ui-shared.md
+Navigation (SPA)                  → docs/maps/map-navigation.md
+
